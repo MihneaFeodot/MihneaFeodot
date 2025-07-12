@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Mihnea
 
 I'm a 3rd year student in Automation and Computer Science at Politehnica University of Bucharest.  
-I enjoy building things that work well — whether it’s code, systems, or ideas. I'm passionate about how technology can solve real-world problems.
+I enjoy creating and developing things that work well — whether it’s code, systems, or ideas. I'm passionate about how technology can solve real-world problems.
 
 I'm especially interested in system design, embedded development, and how software components fit and perform together. From AI experiments to low-level hardware, I love exploring new areas and learning by doing.
 
